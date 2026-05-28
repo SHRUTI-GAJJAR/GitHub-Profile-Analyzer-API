@@ -9,6 +9,11 @@ app.use(express.json());
 
 const githubRoutes = require("./routes/github.routes");
 
+//test api
+app.get("/api/test", (req, res) => {
+  res.json({ message: "API is working!" });
+});
+
 app.use("/api", githubRoutes);
 
 // Swagger Docs

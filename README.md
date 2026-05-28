@@ -22,7 +22,7 @@ Interactive REST API that fetches GitHub user insights, stores analysis results 
 
 | Service      | URL                                                            |
 | ------------ | -------------------------------------------------------------- |
-| Live API     | https://github-profile-analyzer-api-qp01.onrender.com          |
+| Live API     | https://github-profile-analyzer-api-qp01.onrender.com/api/test          |
 | Swagger Docs | https://github-profile-analyzer-api-qp01.onrender.com/api-docs |
 
 ---
