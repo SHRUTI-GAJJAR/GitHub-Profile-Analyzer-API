@@ -98,13 +98,13 @@ DB_PORT=4000
 Clone repository:
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git git clone https://github.com/SHRUTI-GAJJAR/GitHub-Profile-Analyzer-API.git
 ```
 
 Move into project directory:
 
 ```bash
-cd github-profile-analyzer-api
+cd GitHub-Profile-Analyzer-API
 ```
 
 Install dependencies:
